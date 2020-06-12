@@ -67,11 +67,11 @@ function bindEvents() {
   var searchBox = $('#search');
   searchBox.on('input', () => {
     var searchResult = $('#searchresult');
-    searchStr = searchBox.val();
+    searchStr = searchBox.val().toLowerCase();
     if (searchStr.trim().length > 0) {
       var tmpHtml = '';
       contents.forEach(elem => {
-        if (elem.title.search(searchStr) != -1) {
+        if (elem.title.toLowerCase().search(searchStr) != -1) {
           tmpHtml += '<li><a href="' + elem.link + '" title="' + elem.title + '">' + elem.title + '</a></li>';
         }
       });
