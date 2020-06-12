@@ -26,7 +26,7 @@ $(() => {
       // Article info template: [YYYY MMM DD] · [Category] · [Count] comment[s]
       var date = new Date(contentData.time * 1000);
       $('#article-info').html(
-        date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDay()).slice(-2) + ' ' +
+        date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDate()).slice(-2) + ' ' +
         ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ' · ' +
         contentData.category + ' · ' + contentData.comments.length + ' comment' + (contentData.comments.length > 1 ? 's' : '')
       );

@@ -6,7 +6,7 @@ var contents;
  * @param {Date} date Date object
  */
 function dateToString(date) {
-  return date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDay()).slice(-2) +
+  return date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDate()).slice(-2) +
     ' ' + ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2);
 }
 
