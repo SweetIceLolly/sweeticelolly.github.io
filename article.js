@@ -17,18 +17,14 @@ $(() => {
    * Get article into from the database
    */
   getArticleInfo = function() {
-    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-
     $.get('https://sweet-blog-database.herokuapp.com/getarticleinfo?articleid=' + parseInt(article.attr('articleid')))
     .done(data => {
       var contentData = JSON.parse(data.message);
 
       // Article info template: [YYYY MMM DD] · [Category] · [Count] comment[s]
-      var date = new Date(contentData.time * 1000);
       $('#article-info').html(
-        date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDate()).slice(-2) + ' ' +
-        ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ' · ' +
-        contentData.category + ' · ' + contentData.comments.length + ' comment' + (contentData.comments.length > 1 ? 's' : '')
+        dateToString(new Date(contentData.time * 1000)) + ' · ' + contentData.category + ' · ' +
+        contentData.comments.length + ' comment' + (contentData.comments.length > 1 ? 's' : '')
       );
       if (contentData.comments.length == 0) {
         $('#commentcount').html('Be the first commenter!');
@@ -53,13 +49,11 @@ $(() => {
       */
       var tmpHtml = '';
       contentData.comments.forEach(elem => {
-        date = new Date(elem.time * 1000);
         tmpHtml += '<div class="commentinfo"><a class="commenticon" href="https://github.com/' + elem.username + '" target="_blank">' +
           '<img src="https://avatars0.githubusercontent.com/u/' + elem.githubid + '?s=460"></a><div class="commentheader">' +
           '<div class="commenter"><a href="https://github.com/' + elem.username + '" target="_blank">' + elem.username + '</a></div>' +
           '<div class="commenterclient">' + elem.client + '</div><div class="commenteros">' + elem.os + '</div>' +
-          '<div class="commentdate">' + date.getFullYear() + ' ' + months[date.getMonth()] + ' ' + ('0' + date.getDay()).slice(-2) + ' ' +
-          ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + '</div>' +
+          '<div class="commentdate">' + dateToString(new Date(elem.time * 1000)) + '</div>' +
           '<div class="commentcontent">' + elem.content + '</div></div></div>';
       });
       $('#commentsarea').html(tmpHtml);
