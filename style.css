@@ -295,6 +295,7 @@ hr.commentsplit {
     font-size: 14px;
     border-radius: 2px;
     margin: 0 0 10px;
+    resize: none;
     border-color: #ccc;
     background-color: #fbfbfb;
     transition: background-color 0.5s, border-color 0.5s;
