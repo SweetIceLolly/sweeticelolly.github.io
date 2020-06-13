@@ -35,6 +35,12 @@ $(() => {
     newWindow.dispatchEvent(new Event('load'));
   });
 
+  $('#title').on('input', () => {
+    var name = $('#title').val().split(' ').join('-');
+    $('#link').val('/articles/' + name + '.html');
+    $('#rawmdlink').val('https://raw.githubusercontent.com/SweetIceLolly/sweeticelolly.github.io/master/articles/' + name + '.md');
+  });
+
   $('#submit').click(() => {
     var password = $('#password').val();
     msg.html('');
@@ -52,6 +58,11 @@ $(() => {
     // Check for potential mistakes
     if (link.slice(-5) !== '.html') {
       if (!confirm('Link is not suffixed by ".html"! Proceed?')) {
+        return;
+      }
+    }
+    if (link.slice(0, 10) !== '/articles/') {
+      if (!confirm('Link is not prefixed by "/articles/"! Proceed?')) {
         return;
       }
     }
@@ -89,7 +100,7 @@ $(() => {
       // Thanks to https://ourcodeworld.com/articles/read/189/how-to-create-a-file-and-generate-a-download-with-javascript-in-the-browser-without-a-server
       var element = document.createElement('a');
       element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(preview));
-      element.setAttribute('download', link);
+      element.setAttribute('download', link.split('/').slice(-1)[0]);
       element.style.display = 'none';
       document.body.appendChild(element);
       element.click();
