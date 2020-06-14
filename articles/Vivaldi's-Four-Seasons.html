@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>Vivaldi's Four Seasons</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/favicon/site.webmanifest">
+        <link rel="stylesheet" type="text/css" href="/style.css">
+    </head>
+    <body>
+        <div class="topbar">
+            <button class="sidebar-toggle" type="button" id="sidebar-toggle">
+                <span class="white-bar"></span>
+                <span class="white-bar"></span>
+                <span class="white-bar"></span>
+            </button>
+            <div class="section title">
+                <a href="/">冰棍の博客</a>
+            </div>
+        </div>
+        <div class="sidebar" id="sidebar">
+            <div class="header">
+                <div class="section title">
+                    <a href="/">冰棍の博客</a>
+                </div>
+                <div class="section avatar">
+                    <a href="/articles/about.html">
+                        <img class="avatar" title="Watch Dogs! Sooooo coooool!" src="https://avatars0.githubusercontent.com/u/47358542?s=460">
+                    </a>
+                </div>
+            </div>
+            <div class="search">
+                <input type="text" title="Search for articles" placeholder="Search" id="search">
+                <ul class="navbar" id="searchresult"></ul>
+            </div>
+            <div>
+                <ul class="navbar">
+                    <li>
+                        <a href="/" title="Home">Home</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" id="toggletimeline" title="Timeline">Timeline</a>
+                    </li>
+                    <div>
+                        <ul class="navbar" id="timelineresult"></ul>
+                    </div>
+                    <li>
+                        <a href="javascript:;" id="togglecategory" title="Category">Category</a>
+                    </li>
+                    <div>
+                        <ul class="navbar" id="categoryresult"></ul>
+                    </div>
+                    <li>
+                        <a href="https://github.com/SweetIceLolly" target="_blank" title="Maybe... Visit my GitHub?">GitHub</a>
+                    </li>
+                    <li>
+                        <a href="/articles/about.html" title="About">About</a>
+                    </li>
+                    <br>
+                    <li>
+                        <a href="https://trisolaris233.github.io/" target="_blank">阳光加冰の博客</a>
+                    </li>
+                    <li>
+                        <a href="https://buger404.github.io/" target="_blank">404の狗窝</a>
+                    </li>
+                    <li>
+                        <a href="https://nutr1t07.github.io/" target="_blank">Nutr1t07's Blog</a>
+                    </li>
+                    <li>
+                        <a href="http://yorkin.cool/" target="_blank">方程的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://inkhin.com/" target="_blank">风陵的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://xxs2.cn/" target="_blank">小学生的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://9bie.org/" target="_blank">⑨BIE的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://tan90.pw/" target="_blank">沉默的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://www.ghl.info/" target="_blank">浩的博客</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dimojang.com/" target="_blank">迪莫的小站</a>
+                    </li>
+                    <li>
+                        <a href="https://www.interactiveplus.org/" target="_blank">形随意动</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="content" id="content">
+            <ul class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                <li>Vivaldi's Four Seasons</li>
+            </ul>
+            <div class="article-title-large" id="article-title">
+                Vivaldi's Four Seasons
+            </div>
+            <div class="article-info article-info-margin" id="article-info">2020 Jan 15 · Music · 0 comment</div>
+            <div class="article" id="article" articleid="3" targetarticle="https://raw.githubusercontent.com/SweetIceLolly/sweeticelolly.github.io/master/articles/Vivaldi-Four-Seasons.md"></div>
+            <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+            <script src="/scripts/article.js"></script>
+            <script src="/scripts/getContents.js"></script>
+            <script src="/scripts/sidebar.js"></script>
+            <script src="https://cdn.rawgit.com/oauth-io/oauth-js/c5af4519/dist/oauth.js"></script>
+            <hr class="commentsplit">
+            <textarea class="commentbox" maxlength="1000" placeholder="Leave a comment :)" id="commentbox"></textarea>
+            <div class="commentctl">
+                <div id="commentmsg"></div>
+                <button id="commentbtn">Comment</button>
+            </div>
+            <div id="commentcount"></div>
+            <div id="commentsarea"></div>
+            <div class="footer">
+                Hosted on <a href="https://github.com/" target="_blank">GitHub</a> (front-end) and <a href="https://www.heroku.com/" target="_blank">Heroku</a> (back-end).<br>
+                Copyright © 2020 SweetIceLolly's Blog<br>
+                Made with <span title="LOVE AND DETERMINATION!" style="color: #e25555;">❤</span> by <a href="https://github.com/SweetIceLolly" target="_blank">SweetIceLolly</a>. <a href="https://github.com/SweetIceLolly/sweeticelolly.github.io">Source code</a>
+            </div>
+        </div>
+    </body>
+</html>
