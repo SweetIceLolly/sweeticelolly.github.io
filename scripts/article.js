@@ -10,8 +10,18 @@ $(() => {
     var converter = new showdown.Converter();
     article.load(article.attr('targetarticle'), () => {
       article.html(converter.makeHtml(article.html()));
+
+      // Bind click handler for all img
+      $('#article img').click(openImage);
     });
   })();
+
+  /**
+   * Open an image in a new tab when it is clicked
+   */
+  function openImage() {
+    window.open($(this).prop('src'));
+  }
 
   /**
    * Get article into from the database
