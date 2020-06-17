@@ -110,7 +110,7 @@ $(() => {
       commentBox.focus();
       return;
     }
-    msgContainer.html('<img src="images/loading.gif">');
+    msgContainer.html('<img src="/images/loading.gif">');
 
     // Initialize with OAuth.io app public key
     OAuth.initialize('Tm3QjK8Ihu-IO8bUig31XpjqAKA');

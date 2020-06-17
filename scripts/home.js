@@ -17,7 +17,7 @@ $(() => {
   var tmpHtml = '';
   var container = $('#content');
   
-  container.html('<div style="text-align: center"><img class="loading-img" src="images/loading.gif"><br>Loading contents...</div>');
+  container.html('<div style="text-align: center"><img class="loading-img" src="/images/loading.gif"><br>Loading contents...</div>');
   getContents(
     contentData => {
       contentData.forEach(elem => {
