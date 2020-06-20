@@ -43,7 +43,7 @@ I'm calling out from Scatman's world<br>
 If you wanna break free you better listen to me<br>
 You got to learn how to see in your fantasy<br>_
 
-_(Source: LyricFind(https://www.lyricfind.com/))_
+_Source: LyricFind(https://www.lyricfind.com/)_
 
 He called out for peace and equality. He also told people to "learn how to see in your fantasy". People shouldn't lose their hopes and their determination to strive for betterment. Everytime people meet difficulties, they should see hope.
 
@@ -60,7 +60,7 @@ If part of your solution isn't ending the pollution<br>
 Then I don't want to hear your stories told<br>
 I want to welcome you to Scatman's world<br>_
 
-_(Source: LyricFind(https://www.lyricfind.com/))_
+_Source: LyricFind(https://www.lyricfind.com/)_
 
 `Scatman, fat man, black and white and brown man, tell me 'bout the colour of your soul.` This sentence is so powerful that it hits racists so hard. This should be a famous quote. No matter the gender, age, skin color or nationality, everyone in this world should be treated equally. This is the most important message (in my opinion) the singer wants to convey via this song. Scatman is a great man. He is so kind. I deeply fell in love with him.
 
@@ -82,20 +82,20 @@ In 1994, the famous songs "Ski-Ba-Bop-Ba-Dop-Bop" released. In 1995, "Scatman's 
 
 _Sales of his debut single were slow at first, but they gradually reached number-one in many countries and sold over six million records worldwide. "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)" charted highly across Europe and Japan and remains his biggest-selling and most well-known song. He later followed up with the song "Scatman's World" entering the UK Singles chart at number 10, which met lesser but still notable success, selling a million copies and charting highly throughout Europe._
 
-_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
+_Reference: https://en.wikipedia.org/wiki/Scatman_John_
 
 ## Finale
 However, his fame was brief and came late in his life. Compared to the difficulties and problems he met, his fame was too short. He deserved more.
 
 _In late 1998 Larkin was diagnosed with lung cancer, but he continued his musical work despite being told to take it easy from his substantial workload. In June 1999, Larkin released his fourth and ultimately final album as Scatman John, Take Your Time._
 
-_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
+_Reference: https://en.wikipedia.org/wiki/Scatman_John_
 
 Scatman's "Take Your Time" (https://en.wikipedia.org/wiki/Take_Your_Time_(Scatman_John_album)) was his final album. At the very end of his life, he told us, and told himself to "take your time". The album was released when Scatman was already at the final stage of lung cancer. One of the purposes of the album, in my opinion, was to thank everyone who supported him and say goodbye to this world.
 
 In "Time (Take Your Time) - Scatman John" (https://www.youtube.com/watch?v=VY3O2aGfzhs), the lyrics deeply moved me. (Note that "Time (Take Your Time)" and "Take Your Time" (https://www.youtube.com/watch?v=My-EjjW62Yg) are different.)
 
-_(From Time (Take Your Time) - Scatman John)_
+_From Time (Take Your Time) - Scatman John_
 
 _Take your time<br>_
 _We can do - we can do - we can do it_
@@ -106,7 +106,7 @@ _At the concert of November 26, 1999 in Cleveland, Ohio, Larkin collapsed on sta
 
 _Larkin died at his home in Los Angeles on December 3, 1999, at the age of 57. He was surrounded by his wife Judy, his mother Harriet, and his brother Bill. He was cremated and his ashes were scattered at sea near Malibu, California._
 
-_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
+_Reference: https://en.wikipedia.org/wiki/Scatman_John_
 
 John Paul Larkin (1942 - 1999), known as Scatman John, was a legendary singer who brought hopes and determination to countless people. His songs represents his whole life. He spread his positive attitudes, even at the very end of his life. His life was brief. His fame was brief. But his songs, his mind and his soul will last forever. Have a nice time in Scatland. R.I.P Scatman John.
 
