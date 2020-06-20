@@ -38,7 +38,7 @@ $(() => {
   $('#title').on('input', () => {
     var name = $('#title').val().split(' ').join('-');
     $('#link').val('/articles/' + name + '.html');
-    $('#rawmdlink').val('https://raw.githubusercontent.com/SweetIceLolly/sweeticelolly.github.io/master/articles/' + name + '.md');
+    $('#rawmdlink').val('/articles/' + name + '.md');
   });
 
   $('#submit').click(() => {
@@ -66,8 +66,8 @@ $(() => {
         return;
       }
     }
-    if (mdLink.slice(0, 34) !== 'https://raw.githubusercontent.com/') {
-      if (!confirm('Raw markdown link is not prefixed by "https://raw.githubusercontent.com/"! Proceed?')) {
+    if (mdLink.slice(0, 1) !== '/') {
+      if (!confirm('Raw markdown link is not prefixed by "/"! Proceed?')) {
         return;
       }
     }

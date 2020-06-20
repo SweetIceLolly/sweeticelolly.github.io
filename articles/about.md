@@ -5,4 +5,4 @@ emmmmmm... 就是想乱写一通啦... 总比没有博客强
 你看我关于写得这么随便就知道文章质量了
 
 感谢加冰给我的这句话
-![Quote](https://raw.githubusercontent.com/SweetIceLolly/sweeticelolly.github.io/master/articles/quote.png)
+![Quote](/articles/quote.png)

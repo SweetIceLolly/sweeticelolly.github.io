@@ -1,5 +1,5 @@
 ## 很多天（大概几个星期）前
-发现家里有只（在我看来）非常大的长腿蜘蛛（[图片【可能引起不适，慎点】](https://raw.githubusercontent.com/SweetIceLolly/sweeticelolly.github.io/master/articles/long-leg-spider.jpg)）。由于玩了Undertale，不想杀死这些小动物，所以就一直任由他在家里爬来爬去，一直没有去招惹他。
+发现家里有只（在我看来）非常大的长腿蜘蛛（[图片【可能引起不适，慎点】](/articles/long-leg-spider.jpg)）。由于玩了Undertale，不想杀死这些小动物，所以就一直任由他在家里爬来爬去，一直没有去招惹他。
 
 ## 然后
 然后就总是在不同的地方见到它，如楼梯拐角处（上面照片的位置），洗手间等等。然后就渐渐开始担心：万一这东西半夜爬到我床上怎么办。
