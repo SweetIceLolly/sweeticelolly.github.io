@@ -246,7 +246,7 @@ html, body {
 }
 
 #article img {
-    width: 95%;
+    max-width: 95%;
     height: auto;
     margin: 10px 0;
     cursor: pointer;
