@@ -30,37 +30,37 @@ The next live version is the one that trully moved me. It was in an awards cerem
 
 Video: "Scatman John Scatman's World & Scatman Ski Ba Bop Ba Dop Bop Grand Prix Award Winner, Japan 1995": https://www.youtube.com/watch?v=Vnjwhk4u6uk
 
-The hosts asked Scatman several questions about his songs and himself. When he answered the questions, I noticed he stuttered. How can he sings so fast while he stutters? ([The first question @1:08](https://youtu.be/Vnjwhk4u6uk?t=68))
+The hosts asked Scatman several questions about his songs and himself. When he answered the questions, I noticed he stuttered. How can he sings so fast while he stutters? (The first question [@1:08](https://youtu.be/Vnjwhk4u6uk?t=68))
 
-I liked the second question because this is the question that completely changed my view towards this singer ([The second question @2:21](https://youtu.be/Vnjwhk4u6uk?t=141)). The host asked: `Your lyrics said "If the Scatman can do it, so can you". What is the real meaning behind that?` (@[0:46](https://youtu.be/Hy8kmNEo1i8?t=46) of the song). I also noticed this sentence when I read the lyrics, so I wanted to see what will Scatman answer. His answer really moved me. His answer was: `The real meaning behind that is that we all have problems. Some of our problems are inside, some of them are outside. I am a person who stutters. Because I stutter, I scat sing. Because I scat sing, I'm Scatman. So, my greatest problem has become my greatest asset. Problems outside the people who had the earthquake here I was told, they heard the words of Scatman and they were able to get through the earthquake and I think that's wonderful.` I really loved his attitude. I really loved what he said: `My greatest problem has become my greatest asset.` This is so encouraging. This should be a famous quote. Yes, everyone comes with problems. The good attitude is to accept the problems, appreciate the problems and turn those problems into your power. If you can't get rid of your problems, then find the values of them. The person who knows how to deal with his problems is a great man. "Deal with" here does not mean "get rid of", but "utilize". Also, I really appreciate he used himself as an example to encourage the people who suffered earthquakes.
+I liked the second question because this is the question that completely changed my view towards this singer (The second question [@2:21](https://youtu.be/Vnjwhk4u6uk?t=141)). The host asked: `Your lyrics said "If the Scatman can do it, so can you". What is the real meaning behind that?` ([@0:46](https://youtu.be/Hy8kmNEo1i8?t=46) of the song). I also noticed this sentence when I read the lyrics, so I wanted to see what will Scatman answer. His answer really moved me. His answer was: `The real meaning behind that is that we all have problems. Some of our problems are inside, some of them are outside. I am a person who stutters. Because I stutter, I scat sing. Because I scat sing, I'm Scatman. So, my greatest problem has become my greatest asset. Problems outside the people who had the earthquake here I was told, they heard the words of Scatman and they were able to get through the earthquake and I think that's wonderful.` I really loved his attitude. I really loved what he said: `My greatest problem has become my greatest asset.` This is so encouraging. This should be a famous quote. Yes, everyone comes with problems. The good attitude is to accept the problems, appreciate the problems and turn those problems into your power. If you can't get rid of your problems, then find the values of them. The person who knows how to deal with his problems is a great man. "Deal with" here does not mean "get rid of", but "utilize". Also, I really appreciate he used himself as an example to encourage the people who suffered earthquakes.
 
 Now, Scatman's image becomes great in my mind. I want to listen another famous song of him - "Scatman's World": https://www.youtube.com/watch?v=02vDkMEdIkY
 
 This song moved me, as well. The lyrics is very encouraging. It reached a hot topic - **Equality**. This is the topic that has been widely discussed for a long time. My favourite part of the lyrics exactly reflects this topic:
 
-> I'm calling out from Scatland<br>
-> I'm calling out from Scatman's world<br>
-> If you wanna break free you better listen to me<br>
-> You got to learn how to see in your fantasy<br>
-> 
-> (Source: LyricFind(https://www.lyricfind.com/))
+_I'm calling out from Scatland<br>
+I'm calling out from Scatman's world<br>
+If you wanna break free you better listen to me<br>
+You got to learn how to see in your fantasy<br>_
+
+_(Source: LyricFind(https://www.lyricfind.com/))_
 
 He called out for peace and equality. He also told people to "learn how to see in your fantasy". People shouldn't lose their hopes and their determination to strive for betterment. Everytime people meet difficulties, they should see hope.
 
-> I want to be a human being not a human doing
+_I want to be a human being not a human doing_
 
 I like this sentence. We all should be human beings instead of human doings. Doing things is not the only reason why people exist on this earth.
 
-> But listen to me brother, you just keep on walkin' 'cause<br>
-> You and me and sister ain't got nothin' to hide<br>
-> 
-> Scatman, fat man, black and white and brown man<br>
-> Tell me 'bout the colour of your soul<br>
-> If part of your solution isn't ending the pollution<br>
-> Then I don't want to hear your stories told<br>
-> I want to welcome you to Scatman's world<br>
-> 
-> (Source: LyricFind(https://www.lyricfind.com/))
+But listen to me brother, you just keep on walkin' 'cause<br>
+You and me and sister ain't got nothin' to hide<br>
+
+_Scatman, fat man, black and white and brown man<br>
+Tell me 'bout the colour of your soul<br>
+If part of your solution isn't ending the pollution<br>
+Then I don't want to hear your stories told<br>
+I want to welcome you to Scatman's world<br>_
+
+_(Source: LyricFind(https://www.lyricfind.com/))_
 
 `Scatman, fat man, black and white and brown man, tell me 'bout the colour of your soul.` This sentence is so powerful that it hits racists so hard. This should be a famous quote. No matter the gender, age, skin color or nationality, everyone in this world should be treated equally. This is the most important message (in my opinion) the singer wants to convey via this song. Scatman is a great man. He is so kind. I deeply fell in love with him.
 
@@ -80,33 +80,33 @@ Fortunately, Scatman was able to recover and overcame the difficulties. `As soon
 ## Fame
 In 1994, the famous songs "Ski-Ba-Bop-Ba-Dop-Bop" released. In 1995, "Scatman's World" was released. These two songs pushed his fame to the climax. In 1995, at age 53, Scatman became a worldwide star.
 
-> Sales of his debut single were slow at first, but they gradually reached number-one in many countries and sold over six million records worldwide. "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)" charted highly across Europe and Japan and remains his biggest-selling and most well-known song. He later followed up with the song "Scatman's World" entering the UK Singles chart at number 10, which met lesser but still notable success, selling a million copies and charting highly throughout Europe.
-> 
-> (Reference: https://en.wikipedia.org/wiki/Scatman_John)
+_Sales of his debut single were slow at first, but they gradually reached number-one in many countries and sold over six million records worldwide. "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)" charted highly across Europe and Japan and remains his biggest-selling and most well-known song. He later followed up with the song "Scatman's World" entering the UK Singles chart at number 10, which met lesser but still notable success, selling a million copies and charting highly throughout Europe._
+
+_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
 
 ## Finale
 However, his fame was brief and came late in his life. Compared to the difficulties and problems he met, his fame was too short. He deserved more.
 
-> In late 1998 Larkin was diagnosed with lung cancer, but he continued his musical work despite being told to take it easy from his substantial workload. In June 1999, Larkin released his fourth and ultimately final album as Scatman John, Take Your Time.
-> 
-> (Reference: https://en.wikipedia.org/wiki/Scatman_John)
+_In late 1998 Larkin was diagnosed with lung cancer, but he continued his musical work despite being told to take it easy from his substantial workload. In June 1999, Larkin released his fourth and ultimately final album as Scatman John, Take Your Time._
+
+_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
 
 Scatman's "Take Your Time" (https://en.wikipedia.org/wiki/Take_Your_Time_(Scatman_John_album)) was his final album. At the very end of his life, he told us, and told himself to "take your time". The album was released when Scatman was already at the final stage of lung cancer. One of the purposes of the album, in my opinion, was to thank everyone who supported him and say goodbye to this world.
 
 In "Time (Take Your Time) - Scatman John" (https://www.youtube.com/watch?v=VY3O2aGfzhs), the lyrics deeply moved me. (Note that "Time (Take Your Time)" and "Take Your Time" (https://www.youtube.com/watch?v=My-EjjW62Yg) are different.)
 
-> (From Time (Take Your Time) - Scatman John)
-> 
-> Take your time<br>
-> We can do - we can do - we can do it
+_(From Time (Take Your Time) - Scatman John)_
+
+_Take your time<br>_
+_We can do - we can do - we can do it_
 
 The repeated "we can do it" emphasized no matter in what situation, keep in mind that "we can do it". Never give up, even though you are running out of time. Six months after the album "Take Your Time"'s release, Scatman John has gone to Scatland.
 
-> At the concert of November 26, 1999 in Cleveland, Ohio, Larkin collapsed on stage during the show's finale. While engaged in his trademark show-closing scat duel against his drummer, Larkin appeared to faint on stage. The crowd initially believed the collapse to be part of the show, until an announcement was made that the show would be ending due to a medical situation. Larkin was transported to the Cleveland Clinic where he was stabilized. The following week he returned to his home in Los Angeles.
-> 
-> Larkin died at his home in Los Angeles on December 3, 1999, at the age of 57. He was surrounded by his wife Judy, his mother Harriet, and his brother Bill. He was cremated and his ashes were scattered at sea near Malibu, California.
-> 
-> (Reference: https://en.wikipedia.org/wiki/Scatman_John)
+_At the concert of November 26, 1999 in Cleveland, Ohio, Larkin collapsed on stage during the show's finale. While engaged in his trademark show-closing scat duel against his drummer, Larkin appeared to faint on stage. The crowd initially believed the collapse to be part of the show, until an announcement was made that the show would be ending due to a medical situation. Larkin was transported to the Cleveland Clinic where he was stabilized. The following week he returned to his home in Los Angeles._
+
+_Larkin died at his home in Los Angeles on December 3, 1999, at the age of 57. He was surrounded by his wife Judy, his mother Harriet, and his brother Bill. He was cremated and his ashes were scattered at sea near Malibu, California._
+
+_(Reference: https://en.wikipedia.org/wiki/Scatman_John)_
 
 John Paul Larkin (1942 - 1999), known as Scatman John, was a legendary singer who brought hopes and determination to countless people. His songs represents his whole life. He spread his positive attitudes, even at the very end of his life. His life was brief. His fame was brief. But his songs, his mind and his soul will last forever. Have a nice time in Scatland. R.I.P Scatman John.
 
