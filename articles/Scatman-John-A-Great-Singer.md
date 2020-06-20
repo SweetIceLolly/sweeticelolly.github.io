@@ -43,7 +43,7 @@ I'm calling out from Scatman's world<br>
 If you wanna break free you better listen to me<br>
 You got to learn how to see in your fantasy<br>_
 
-_Source: LyricFind(https://www.lyricfind.com/)_
+Source: LyricFind(https://www.lyricfind.com/)
 
 He called out for peace and equality. He also told people to "learn how to see in your fantasy". People shouldn't lose their hopes and their determination to strive for betterment. Everytime people meet difficulties, they should see hope.
 
@@ -60,7 +60,7 @@ If part of your solution isn't ending the pollution<br>
 Then I don't want to hear your stories told<br>
 I want to welcome you to Scatman's world<br>_
 
-_Source: LyricFind(https://www.lyricfind.com/)_
+Source: LyricFind(https://www.lyricfind.com/)
 
 `Scatman, fat man, black and white and brown man, tell me 'bout the colour of your soul.` This sentence is so powerful that it hits racists so hard. This should be a famous quote. No matter the gender, age, skin color or nationality, everyone in this world should be treated equally. This is the most important message (in my opinion) the singer wants to convey via this song. Scatman is a great man. He is so kind. I deeply fell in love with him.
 
