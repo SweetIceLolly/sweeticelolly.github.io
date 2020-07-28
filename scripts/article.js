@@ -142,5 +142,15 @@ $(() => {
     });
   });
 
+  function submitSurvey() {
+    var payload = {
+      articleid: parseInt(article.attr('articleid')),
+      surveyans: this.id.slice(-1)
+    };
+    $.post('https://sweet-blog-database.herokuapp.com/submitsurvey', payload);
+    $('#surveyarea').html('<div>Thank you for your feedback!</div><div>感谢您的反馈！</div>');
+  }
+  $('.surveybtn').click(submitSurvey);
+
   bindEvents();
 });

@@ -340,7 +340,7 @@ hr.commentsplit {
     vertical-align: middle;
 }
 
-#commentbtn {
+#commentbtn, .surveybtn {
     border: none;
     color: #fff;
     background-color: #389a56;
@@ -351,11 +351,19 @@ hr.commentsplit {
     transition: background-color 0.2s;
 }
 
-#commentbtn:hover {
+.surveybtn {
+    width: 450px;
+    max-width: 100%;
+    text-align: left;
+    padding: 7px 10px;
+    margin: 5px 0;
+}
+
+#commentbtn:hover, .surveybtn:hover {
     background-color: #48aa66;
 }
 
-#commentbtn:active {
+#commentbtn:active, .surveybtn:active {
     background-color: #187a36;
 }
 
